@@ -2,14 +2,16 @@
 
 
 
- .separador {
-    
+ .separador 
+ {
 
-    border-bottom: 2px solid #ff3366;
+  border-bottom: 2px solid #ff3366;
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: rgb(255,51,102);
-}
+  }
+    
+
 
 
  .separadorsuperior {
