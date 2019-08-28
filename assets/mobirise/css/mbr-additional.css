@@ -3,7 +3,7 @@
 
 
  .separador {
-    border-top: 2px solid #ff3366;
+    border-bottom-left-radius: 2px solid #ff3366;
     border-top-width: 2px;
     border-top-style: solid;
     border-top-color: rgb(255, 51, 102);
