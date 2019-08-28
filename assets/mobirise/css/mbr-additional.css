@@ -3,10 +3,21 @@
 
 
  .separador {
-    border-bottom-left-radius: 2px solid #ff3366;
+    
+
+    border-bottom: 2px solid #ff3366;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(255,51,102);
+}
+
+
+ .separadorsuperior {
+    border-top: 2px solid #ff3366;
     border-top-width: 2px;
     border-top-style: solid;
     border-top-color: rgb(255, 51, 102);
+    
 }
 
 
